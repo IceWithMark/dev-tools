@@ -1,0 +1,1 @@
+/Users/mark/.vim/bundle/UltiSnips/ftdetect/snippets.vim
